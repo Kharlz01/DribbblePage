@@ -4,7 +4,7 @@ Este proyecto es una réplica de la página principal de Dribbble utilizando sol
 
 ## Visita el Sitio Web
 
-Puedes ver el proyecto en vivo en [GitHub Pages](https://tu-usuario.github.io/nombre-del-repositorio).
+Puedes ver el proyecto en vivo en [GitHub Pages](https://kharlz01.github.io/DribblePage/).
 
 ## Descripción del Proyecto
 
@@ -26,7 +26,7 @@ Este proyecto recrea la página principal de Dribbble, una plataforma popular pa
 
 1. **Clona el repositorio**:
 
-`git clone https://github.com/tu-usuario/nombre-del-repositorio.git`
+`git clone https://github.com/Kharlz01/DribblePage.git`
 
 2. **Navega al directorio del proyecto**:
 
